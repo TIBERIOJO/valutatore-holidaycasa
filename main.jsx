@@ -2,8 +2,7 @@
 import React from 'react'
 import ReactDOM from 'react-dom/client'
 import ValutatoreSperlonga from './ValutatoreSperlonga';
-import './src/index.css'
-
+import './index.css'
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
     <ValutatoreSperlonga />
