@@ -1,7 +1,7 @@
 
 import React from 'react'
 import ReactDOM from 'react-dom/client'
-import ValutatoreSperlonga from './src/ValutatoreSperlonga'
+import ValutatoreSperlonga from './ValutatoreSperlonga';
 import './src/index.css'
 
 ReactDOM.createRoot(document.getElementById('root')).render(
